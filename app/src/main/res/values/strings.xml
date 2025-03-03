@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Тетрис</string>
+    <string name="high_score_default">Hight score: 0</string>
+    <string name="new_game">Начать игру</string>
+    <string name="reset_score">Сбросить рекорд</string>
+    <string name="exit">Выход</string>
+
+    <string name="high_score">Максимальный\nрекорд</string>
+    <string name="current_score">Текущий\nрекорд</string>
+    <string name="btn_restart">Перезапустить</string>
+</resources>
