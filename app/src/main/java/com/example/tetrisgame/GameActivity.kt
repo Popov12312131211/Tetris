@@ -74,10 +74,10 @@ class GameActivity : ComponentActivity() {
         val y = event.y / view.height
         val direction: Int
         direction = if(y>x){
-            if (x>  2-y) 2 else 0
+            if (x>  1-y) 2 else 0
         }
         else{
-            if(x>2-y) 3 else 1
+            if(x>  1-y) 3 else 1
         }
         return direction
     }
